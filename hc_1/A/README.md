@@ -4,4 +4,4 @@
 
 ## DATA STRUCTURE LAYOUT/ VARIABLE NAMES
 
-- ![Alt text](/img.png?raw=true "Title")
+- ![Alt text](img.png?raw=true "Title")
