@@ -1,6 +1,6 @@
 ## CHECKMARKS
 
-- Read inputs from input text file heavy_check_mark:
+- Read inputs from input text file :heavy_check_mark:
 
 ## DATA STRUCTURE LAYOUT/ VARIABLE NAMES
 
